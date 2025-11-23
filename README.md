@@ -1,58 +1,50 @@
-Dotfiles Template
-=================
+# macOS config and applications as code
 
-This is a template repository for bootstrapping your dotfiles with [Dotbot][dotbot].
+通过执行脚本批量完成系统的设置的更改，应用程序的安装等。
 
-To get started, you can [create a new repository from this template][template]
-(or you can [fork][fork] this repository, if you prefer). You can probably
-delete this README and rename your version to something like just `dotfiles`.
+完全执行 `sh init.sh` 适用于初始化电脑。
+部分执行 `defaults` 相关命令可以统一多个电脑配置。
 
-In general, you should be using symbolic links for everything, and using git
-submodules whenever possible.
+## 如何改变系统配置
 
-To keep submodules at their proper versions, you could include something like
-`git submodule update --init --recursive` in your `install.conf.yaml`.
+macOS 提供了一个 `defaults` 的命令可以查询和配置各个系统参数，包括但不限于 Dock、触发角、系统偏好等等。
 
-To upgrade your submodules to their latest versions, you could periodically run
-`git submodule update --init --remote`.
+执行命令后瞬间完成配置，不用去 UI 页面 System Settings 依次去找各个要设置的点并修改。
 
-Inspiration
------------
+## 如何安装软件
 
-If you're looking for inspiration for how to structure your dotfiles or what
-kinds of things you can include, you could take a look at some repos using
-Dotbot.
+1. 依赖 `brew` 命令安装非 App Store 的软件
+2. 依赖 `mas`(通过 brew 安装的命令行应用) 命令安装 App Store 的软件
 
-* [anishathalye's dotfiles][anishathalye_dotfiles]
-* [csivanich's dotfiles][csivanich_dotfiles]
-* [m45t3r's dotfiles][m45t3r_dotfiles]
-* [alexwh's dotfiles][alexwh_dotfiles]
-* [azd325's dotfiles][azd325_dotfiles]
-* [wazery's dotfiles][wazery_dotfiles]
-* [thirtythreeforty's dotfiles][thirtythreeforty_dotfiles]
+## 重要
 
-And there are about [700 more here][dotbot-users].
+- 受限于 GFW ，部分用户执行这些脚本前先解决好网络问题，否则几乎无法正常执行。
+- 有些程序安装需要 `sudo` 权限，需要在对应位置手动输入密码确认权限。或者提前 `sudo -s` 进入 root 用户的 shell (需要确认安装内容安全可控，但是**不建议**对未知程序使用)。
 
-If you're using Dotbot and you'd like to include a link to your dotfiles here
-as an inspiration to others, please submit a pull request.
 
-License
--------
+## 开始执行
 
-This software is hereby released into the public domain. That means you can do
-whatever you want with it without restriction. See `LICENSE.md` for details.
+```shell
+sh init.sh
+```
 
-That being said, I would appreciate it if you could maintain a link back to
-Dotbot (or this repository) to help other people discover Dotbot.
+依次执行各个项目的安装和配置，下面是按照执行顺序的各个模块的说明。其中 1 和 4 瞬间完成，2 和 3 需要下载软件，时间较长。
 
-[dotbot]: https://github.com/anishathalye/dotbot
-[fork]: https://github.com/anishathalye/dotfiles_template/fork
-[template]: https://github.com/anishathalye/dotfiles_template/generate
-[anishathalye_dotfiles]: https://github.com/anishathalye/dotfiles
-[csivanich_dotfiles]: https://github.com/csivanich/dotfiles
-[m45t3r_dotfiles]: https://github.com/m45t3r/dotfiles
-[alexwh_dotfiles]: https://github.com/alexwh/dotfiles
-[azd325_dotfiles]: https://github.com/Azd325/dotfiles
-[wazery_dotfiles]: https://github.com/wazery/dotfiles
-[thirtythreeforty_dotfiles]: https://github.com/thirtythreeforty/dotfiles
-[dotbot-users]: https://github.com/anishathalye/dotbot/wiki/Users
+1. `defaults_config.sh` 修改 Mac 系统设置，和作者本人的使用习惯相关，包括简单密码、Finder 设置等
+2. `brew.sh` 安装 Homebrew，之后安装一些常用的软件
+3. `mas.sh` 在 2 的基础上使用 `mas` 安装一些 App Store 的软件(需要提前登录 App Store)
+4. `defaults_dock.sh` 修改 Dock 设置(部分设置依赖上述步骤应用安装完成，所以最后执行)
+
+## 其他
+
+本仓库配置均是基于作者本人使用习惯和个人需求，可以根据自己的需求修改。
+其中 `Brewfile` 是通过 `brew bundle dump` 生成的，可以通过 `brew bundle` 安装其中的软件。
+
+item2中要安装 oh-my-zsh 执行下述命令自行安装：(因需要安装在特定程序中，所以不在 `init.sh` 中执行)
+
+```shell
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+## 参考
+https://github.com/vipic/Mac-As-Code

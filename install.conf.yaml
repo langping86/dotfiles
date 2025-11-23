@@ -1,3 +1,12 @@
-- clean: []
-- link: {}
-- shell: []
+- defaults:
+    link:
+        relink: true # Automatically remove old symlinks they exist
+        create: true # Automatically create parent directories as needed
+- clean: ['~'] # Check the home directory for dead links
+- link:
+    ~/.zshrc: zshrc
+    ~/.vimrc: vimrc
+    ~/.gitconfig: gitconfig
+- shell:
+    - [git submodule update --init --recursive, Installing submodules] # Example shell command
+
