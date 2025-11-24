@@ -1,0 +1,109 @@
+{
+  "book_list_pin_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABAP////8A/////wEAAAABAA=="
+  },
+  "cover_grid_background": {
+    "dark": [
+      45,
+      45,
+      45
+    ],
+    "dark_texture": null,
+    "light": [
+      80,
+      80,
+      80
+    ],
+    "light_texture": null,
+    "migrated": true
+  },
+  "geometry-of-calibre_main_window_geometry": {
+    "frame_geometry": {
+      "height": 905,
+      "width": 1027,
+      "x": 358,
+      "y": 38
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 877,
+      "width": 1027,
+      "x": 358,
+      "y": 66
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 877,
+      "width": 1027,
+      "x": 358,
+      "y": 66
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAFmAAAAJgAABWgAAAOuAAABZgAAAEIAAAVoAAADrgAAAAAAAAAABsAAAAFmAAAAQgAABWgAAAOu"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 2.0,
+      "geometry_in_logical_pixels": {
+        "height": 1117,
+        "width": 1728,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "Built-in Retina Display",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1117,
+        "width": 1728
+      },
+      "virtual_geometry": {
+        "height": 1117,
+        "width": 1728,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "grid view visible": false,
+  "library_usage_stats": {
+    "/Users/shmax/Calibre Library": 2
+  },
+  "main_window_central_widget_state": {
+    "layout": "wide",
+    "narrow_desires": {
+      "book_details_height": 0.23059617547806524,
+      "cover_browser_width": 0.3495618305744888,
+      "quick_view_height": 0.25646794150731156,
+      "tag_browser_width": 0.249269717624148
+    },
+    "narrow_visibility": {
+      "book_details": true,
+      "book_list": true,
+      "cover_browser": false,
+      "quick_view": false,
+      "tag_browser": true
+    },
+    "wide_desires": {
+      "book_details_width": 0.29990262901655307,
+      "cover_browser_height": 0.2860125260960334,
+      "quick_view_height": 0.23799582463465555,
+      "tag_browser_width": 0.29990262901655307
+    },
+    "wide_visibility": {
+      "book_details": true,
+      "book_list": true,
+      "cover_browser": false,
+      "quick_view": false,
+      "tag_browser": true
+    }
+  },
+  "quick_start_guide_added": true,
+  "qv_open_at_shutdown": false,
+  "search bar visible": true,
+  "tag browser search box visible": false
+}
