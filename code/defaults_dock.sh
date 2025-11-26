@@ -46,11 +46,9 @@ defaults write com.apple.dock show-process-indicators -int 1
 defaults write com.apple.dock mouse-over-hilite-stack -int 1
 
 # Dock 设置触发角
-# 右下角锁屏
-defaults write com.apple.dock wvous-br-corner -int 13
-# 左上 显示桌面
-defaults write com.apple.dock wvous-tl-corner -int 4
-# 左下和右上空白
+# 空白
+defaults write com.apple.dock wvous-br-corner -int 1
+defaults write com.apple.dock wvous-tl-corner -int 1
 defaults write com.apple.dock wvous-tr-corner -int 1
 defaults write com.apple.dock wvous-bl-corner -int 1
 
