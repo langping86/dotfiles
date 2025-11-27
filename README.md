@@ -48,3 +48,5 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 ## 参考
 https://github.com/vipic/Mac-As-Code
+
+## Add gpg key
