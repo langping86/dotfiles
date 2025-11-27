@@ -1,7 +1,7 @@
 {
   "book_list_pin_splitter_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAEAAAACAAABAP////8A/////wEAAAABAA=="
+    "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEYA/////wEAAAABAA=="
   },
   "cover_grid_background": {
     "dark": [
@@ -71,7 +71,7 @@
   },
   "grid view visible": false,
   "library_usage_stats": {
-    "/Users/shmax/Calibre Library": 2
+    "/Users/shmax/CalibreVault": 6
   },
   "main_window_central_widget_state": {
     "layout": "wide",

@@ -1,7 +1,10 @@
 [user]
 	name = b0b.ma
 	email = b0b.ma@empty.email
+	signingkey = 482EE6126259D03C
 [core]
 	editor = vim
 [color]
 	ui = true
+[commit]
+	gpgsign = true
