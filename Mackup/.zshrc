@@ -10,3 +10,5 @@ export PATH="/Users/shmax/.antigravity/antigravity/bin:$PATH"
 
 alias ll="ls -la"
 alias gs="git status"
+alias cl="clear"
+eval "$(jenv init -)"

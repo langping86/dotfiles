@@ -6,6 +6,14 @@
       false
     ],
     [
+      "title",
+      true
+    ],
+    [
+      "timestamp",
+      false
+    ],
+    [
       "timestamp",
       false
     ]
