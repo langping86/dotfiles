@@ -1,0 +1,11 @@
+{
+  "conversion_type": 3,
+  "input_locale": 2,
+  "input_source": 0,
+  "output_locale": 2,
+  "output_orientation": 1,
+  "punc_omits": "。…＿﹏‥：；！？、，",
+  "quotation_type": 1,
+  "update_punctuation": true,
+  "use_target_phrases": false
+}

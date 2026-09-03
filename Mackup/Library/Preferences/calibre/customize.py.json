@@ -1,0 +1,17 @@
+{
+  "disabled_plugins": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "enabled_plugins": {
+    "__class__": "set",
+    "__value__": [
+      "Chinese Text Conversion"
+    ]
+  },
+  "filetype_mapping": {},
+  "plugin_customization": {},
+  "plugins": {
+    "Chinese Text Conversion": "/Users/shmax/Library/Preferences/calibre/plugins/Chinese Text Conversion.zip"
+  }
+}

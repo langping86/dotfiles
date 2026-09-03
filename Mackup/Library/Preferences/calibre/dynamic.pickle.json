@@ -1,5 +1,13 @@
 {
+  "add a plugin dialog": "/Users/shmax/Downloads",
   "choose library location": "/Users/shmax/CalibreVault",
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "9.13",
+      "9.11"
+    ]
+  },
   "sort_history": [
     [
       "timestamp",

@@ -27,8 +27,8 @@ patch:
   
   style:
     # 选择皮肤，亮色与暗色主题
-    #color_scheme: purity_of_form_custom
-    #color_scheme_dark: purity_of_form_custom
+    #color_scheme: solarized_light
+    #color_scheme_dark: solarized_dark
     #color_scheme: macos_light
     #color_scheme_dark: macos_dark
     color_scheme: wechat_light
@@ -57,11 +57,11 @@ patch:
     macos_light:
       name: "MacOS 浅色／MacOS Light"
       author: 小码哥
-      font_face: "PingFangSC"          # 字体及大小
+      font_face: "LXGW WenKai"          # 字体及大小
       font_point: 16
-      label_font_face: "PingFangSC"    # 序号字体及大小
+      label_font_face: "LXGW WenKai"    # 序号字体及大小
       label_font_point: 16
-      comment_font_face: "PingFangSC"  # 注字体及大小
+      comment_font_face: "LXGW WenKai"  # 注字体及大小
       comment_font_point: 16
       candidate_format: "%c\u2005%@\u2005" # 编号 %c 和候选词 %@ 前后的空间
       candidate_list_layout: linear   # 候选排布：层叠 stacked | 行 linear
@@ -98,11 +98,11 @@ patch:
     macos_dark:
       name: "MacOS 深色／MacOS Dark"
       author: 小码哥
-      font_face: "PingFangSC"          # 字体及大小
+      font_face: "LXGW WenKai"          # 字体及大小
       font_point: 16
-      label_font_face: "PingFangSC"    # 序号字体及大小
+      label_font_face: "LXGW WenKai"    # 序号字体及大小
       label_font_point: 16
-      comment_font_face: "PingFangSC"  # 注字体及大小
+      comment_font_face: "LXGW WenKai"  # 注字体及大小
       comment_font_point: 16
       candidate_format: "%c\u2005%@\u2005" # 编号 %c 和候选词 %@ 前后的空间
       candidate_list_layout: linear   # 候选排布：层叠 stacked | 行 linear

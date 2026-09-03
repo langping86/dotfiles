@@ -1,0 +1,458 @@
+{
+  "check-book-splitter-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAAARgAAAEYA/////wEAAAABAA=="
+  },
+  "css-editor-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAD9AAAAAAAAAwMAAAObAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAUAGEAYwB0AGkAbwBuAF8AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAF8AYgBhAHIBAAAA3f////8AAAAAAAAAAA=="
+  },
+  "find-widget-state": {
+    "case_sensitive": false,
+    "direction": "down",
+    "dot_all": false,
+    "mode": "normal",
+    "where": "current",
+    "wrap": true
+  },
+  "geometry-of-change-font-family-geometry": {
+    "frame_geometry": {
+      "height": 148,
+      "width": 300,
+      "x": 694,
+      "y": 479
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 120,
+      "width": 300,
+      "x": 694,
+      "y": 507
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 120,
+      "width": 300,
+      "x": 694,
+      "y": 507
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAK2AAAB3wAAA+EAAAJyAAACtgAAAfsAAAPhAAACcgAAAAAAAAAABsAAAAK2AAAB+wAAA+EAAAJy"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 2.0,
+      "geometry_in_logical_pixels": {
+        "height": 1117,
+        "width": 1728,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "Built-in Retina Display",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1117,
+        "width": 1728
+      },
+      "virtual_geometry": {
+        "height": 1117,
+        "width": 1728,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-chinese_conversion_dialog-geometry": {
+    "frame_geometry": {
+      "height": 474,
+      "width": 311,
+      "x": 699,
+      "y": 328
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 446,
+      "width": 311,
+      "x": 699,
+      "y": 356
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 446,
+      "width": 311,
+      "x": 699,
+      "y": 356
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAK7AAABSAAAA/EAAAMhAAACuwAAAWQAAAPxAAADIQAAAAAAAAAABsAAAAK7AAABZAAAA/EAAAMh"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 2.0,
+      "geometry_in_logical_pixels": {
+        "height": 1117,
+        "width": 1728,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "Built-in Retina Display",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1117,
+        "width": 1728
+      },
+      "virtual_geometry": {
+        "height": 1117,
+        "width": 1728,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-chinese_conversion_punctuation_dialog-geometry": {
+    "frame_geometry": {
+      "height": 494,
+      "width": 274,
+      "x": 717,
+      "y": 318
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 466,
+      "width": 274,
+      "x": 717,
+      "y": 346
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 466,
+      "width": 274,
+      "x": 717,
+      "y": 346
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAALNAAABPgAAA94AAAMrAAACzQAAAVoAAAPeAAADKwAAAAAAAAAABsAAAALNAAABWgAAA94AAAMr"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 2.0,
+      "geometry_in_logical_pixels": {
+        "height": 1117,
+        "width": 1728,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "Built-in Retina Display",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1117,
+        "width": 1728
+      },
+      "virtual_geometry": {
+        "height": 1117,
+        "width": 1728,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-diff-dialog-geometry": {
+    "frame_geometry": {
+      "height": 891,
+      "width": 1555,
+      "x": 77,
+      "y": 106
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 863,
+      "width": 1555,
+      "x": 77,
+      "y": 134
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 863,
+      "width": 1555,
+      "x": 77,
+      "y": 134
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAABNAAAAagAABl8AAAPkAAAATQAAAIYAAAZfAAAD5AAAAAAAAAAABsAAAABNAAAAhgAABl8AAAPk"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 2.0,
+      "geometry_in_logical_pixels": {
+        "height": 1117,
+        "width": 1728,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "Built-in Retina Display",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1117,
+        "width": 1728
+      },
+      "virtual_geometry": {
+        "height": 1117,
+        "width": 1728,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 1079,
+      "width": 1728,
+      "x": 0,
+      "y": 38
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 1051,
+      "width": 1728,
+      "x": 0,
+      "y": 66
+    },
+    "maximized": true,
+    "normal_geometry": {
+      "height": 1051,
+      "width": 1728,
+      "x": 0,
+      "y": 66
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAJgAABr8AAARcAAAAAAAAAEIAAAa/AAAEXAAAAAACAAAABsAAAAAAAAAAQgAABr8AAARc"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 2.0,
+      "geometry_in_logical_pixels": {
+        "height": 1117,
+        "width": 1728,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "Built-in Retina Display",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1117,
+        "width": 1728
+      },
+      "virtual_geometry": {
+        "height": 1117,
+        "width": 1728,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-manage-fonts-geometry": {
+    "frame_geometry": {
+      "height": 424,
+      "width": 661,
+      "x": 524,
+      "y": 353
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 396,
+      "width": 661,
+      "x": 524,
+      "y": 381
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 396,
+      "width": 661,
+      "x": 524,
+      "y": 381
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAIMAAABYQAABKAAAAMIAAACDAAAAX0AAASgAAADCAAAAAAAAAAABsAAAAIMAAABfQAABKAAAAMI"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 2.0,
+      "geometry_in_logical_pixels": {
+        "height": 1117,
+        "width": 1728,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "Built-in Retina Display",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1117,
+        "width": 1728
+      },
+      "virtual_geometry": {
+        "height": 1117,
+        "width": 1728,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-preferences_geom": {
+    "frame_geometry": {
+      "height": 628,
+      "width": 800,
+      "x": 454,
+      "y": 251
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 600,
+      "width": 800,
+      "x": 454,
+      "y": 279
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 600,
+      "width": 800,
+      "x": 454,
+      "y": 279
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAHGAAAA+wAABOUAAANuAAABxgAAARcAAATlAAADbgAAAAAAAAAABsAAAAHGAAABFwAABOUAAANu"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 2.0,
+      "geometry_in_logical_pixels": {
+        "height": 1117,
+        "width": 1728,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "Built-in Retina Display",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1117,
+        "width": 1728
+      },
+      "virtual_geometry": {
+        "height": 1117,
+        "width": 1728,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-toolbag_show_results_dialog-geometry": {
+    "frame_geometry": {
+      "height": 328,
+      "width": 300,
+      "x": 704,
+      "y": 401
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 300,
+      "width": 300,
+      "x": 704,
+      "y": 429
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 300,
+      "width": 300,
+      "x": 704,
+      "y": 429
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAALAAAABkQAAA+sAAALYAAACwAAAAa0AAAPrAAAC2AAAAAAAAAAABsAAAALAAAABrQAAA+sAAALY"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 2.0,
+      "geometry_in_logical_pixels": {
+        "height": 1117,
+        "width": 1728,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "Built-in Retina Display",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1117,
+        "width": 1728
+      },
+      "virtual_geometry": {
+        "height": 1117,
+        "width": 1728,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "global_plugins_toolbar": [
+    "Chinese Text Conversiontrad-simp-chinesetoolbar"
+  ],
+  "html-editor-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAD9AAAAAAAAAwMAAAObAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGEAYwB0AGkAbwBuAF8AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAF8AYgBhAHIBAAAA3f////8AAAAAAAAAAAAAAB4AaAB0AG0AbABfAGYAbwByAG0AYQB0AF8AYgBhAHIBAAABv/////8AAAAAAAAAAA=="
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAD9AAAABAAAAAAAAAEAAAAD3vwCAAAABfsAAAAkAGYAaQBsAGUAcwAtAGIAcgBvAHcAcwBlAHIALQBkAG8AYwBrAQAAACcAAAPeAAAAWAD////7AAAAHgB0AG8AYwAtAHYAaQBlAHcAZQByAC0AZABvAGMAawAAAAAA/////wAAAFgA////+wAAACAAdABlAHgAdAAtAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAA/////wAAAHUA////+wAAACAAYwBoAGUAYwBrAHAAbwBpAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAIgA////+wAAACYAcwBhAHYAZQBkAC0AcwBlAGEAcgBjAGgAZQBzAC0AZABvAGMAawAAAAAA/////wAAAfcA////AAAAAQAAArEAAAPe/AIAAAAC+wAAABgAcAByAGUAdgBpAGUAdwAtAGQAbwBjAGsBAAAAJwAAA94AAABPAP////sAAAAaAGwAaQB2AGUALQBjAHMAcwAtAGQAbwBjAGsAAAAAAP////8AAABYAP///wAAAAIAAAAAAAAAAPwBAAAAAfsAAAAeAGMAaABlAGMAawAtAGIAbwBvAGsALQBkAG8AYwBrAAAAAAD/////AAAAkAD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABpAG4AcwBwAGUAYwB0AG8AcgAtAGQAbwBjAGsAAAAAAP////8AAAAzAP///wAAAwMAAAPeAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGcAbABvAGIAYQBsAC0AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAC0AYgBhAHIBAAABJv////8AAAAAAAAAAAAAABYAcABsAHUAZwBpAG4AcwAtAGIAYQByAQAAAj7/////AAAAAAAAAAA="
+  },
+  "manage-fonts-splitter-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABAAAAARsB/////wEAAAABAA=="
+  },
+  "recent-books": [
+    "/Users/shmax/CalibreVault/Ya Dang _Ge Lan Te/Ni Si Wei (156)/Ni Si Wei - Ya Dang _Ge Lan Te-2.epub",
+    "/Users/shmax/CalibreVault/Ya Dang _Ge Lan Te/Ni Si Wei (156)/Ni Si Wei - Ya Dang _Ge Lan Te.epub"
+  ],
+  "reports-ui-state": {},
+  "saved_seaches_state": {
+    "direction": "down",
+    "where": "current",
+    "wrap": true
+  },
+  "search-panel-visible": false,
+  "text_search_widget_state": {
+    "case_sensitive": false,
+    "dot_all": true,
+    "mode": "normal",
+    "where": "current"
+  }
+}
